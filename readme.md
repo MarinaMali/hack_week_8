@@ -1,5 +1,5 @@
 # Qwen3-8B Question Answering Flow
-This project illustrates a flowchart for a question-answering system powered entirely by Qwen3-8B, a Large Language Model (LLM). The system is designed to handle natural language questions with reasoning, translation, domain classification, and specialized response generation — all handled by Qwen3-8B.
+This project illustrates a flowchart for a question-answering system powered entirely by Qwen3-8B, a Large Language Model (LLM). The system is designed to handle natural language questions with reasoning, translation, domain classification, and specialized response generation all handled by Qwen3-8B.
 
 ## 🧠 Overview
 All tasks in this flow are performed using the Qwen3-8B model. It processes the input, validates its format, classifies its domain, and generates answers accordingly.
